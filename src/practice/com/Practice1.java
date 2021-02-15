@@ -6,7 +6,7 @@ public class Practice1 {
 	double weight;
 	
 	double moon(double w) {
-		weight = w * 0.17;
+		weight = w * 0.18;
 		System.out.println("달에서의 몸무게는 " + weight + "kg 입니다.");
 		return weight;
 	}
