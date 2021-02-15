@@ -28,7 +28,7 @@ public class Account {
 	
 	public static void main(String[] args) {
 		Account ac = new Account();
-		ac.kor = 80;
+		ac.kor = 85;
 		ac.math = 80;
 		ac.eng = 90;
 		double tot = ac.hap(ac.kor, ac.eng, ac.math);
